@@ -5,7 +5,6 @@
   "framework": "react",
   "outputDirectory": "dist",
   "env": [],
-  "envPrefix": "VITE_",
   "functions": {
     "api/**/*.js": {
       "memory": 1024,
