@@ -4,7 +4,7 @@
   "installCommand": "npm ci",
   "framework": "react",
   "outputDirectory": "dist",
-  "env": [],
+  "env": {},
   "functions": {
     "api/**/*.js": {
       "memory": 1024,
