@@ -2,6 +2,7 @@
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
   "installCommand": "npm ci",
+  "nodeVersion": "18.x",
   "framework": "react",
   "outputDirectory": "dist",
   "env": [],
