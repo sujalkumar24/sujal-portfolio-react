@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/marquee.tsx","./src/components/nav.tsx","./src/hooks/usemarqueeloop.ts","./src/hooks/usescrollreveal.ts","./src/pages/home.tsx"],"version":"5.9.3"}
