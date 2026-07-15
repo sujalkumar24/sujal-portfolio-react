@@ -319,7 +319,7 @@ export default function Home() {
             <div className="label">AI Applications</div>
           </div>
           <div className="num-item">
-            <div className="num">100+</div>
+            <div className="num">50+</div>
             <div className="label">GitHub Contributions</div>
           </div>
           <div className="num-item">
@@ -345,16 +345,16 @@ export default function Home() {
             I'm always open to discussing new opportunities, freelance work, and exciting AI projects.
           </p>
           <div className="contact-links reveal">
-            <a className="cbtn primary" href="mailto:hello@sujalkumar.dev">
+            <a className="cbtn primary" href="mailto:sujalshaw7674@gmail.com">
               Email →
             </a>
-            <a className="cbtn" href="https://github.com" target="_blank" rel="noopener">
+            <a className="cbtn" href="https://github.com" target="_blank" rel="https://github.com/sujalkumar24">
               Github
             </a>
-            <a className="cbtn" href="https://linkedin.com" target="_blank" rel="noopener">
+            <a className="cbtn" href="https://linkedin.com" target="_blank" rel="https://www.linkedin.com/in/sujal-kumar-092366122/">
               LinkedIn
             </a>
-            <a className="cbtn" href="#" download>
+            <a className="cbtn" href="https://drive.google.com/file/d/1gyIxKZcp93_xKTarYM6YkiYfQQn_JwOa/view?usp=sharing" download>
               Resume
             </a>
           </div>
